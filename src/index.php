@@ -41,14 +41,14 @@
                 My name's Robert Ingrum and I'm a  developer currently living in beautiful Boulder, Colorado.
                 This is my personal website and will serve as a hub of sorts for all sorts of fun
                 and interesting content that I'm involved with.  For example,
-                you can find a link to the startup I'm currently working with below under
+                you can find a link to Bonusly, an amazing Peer-to-Peer bonusing platform that I'm working on below under
                 <a href="#projects">Projects</a>.
             </p>
             <p>
                 I also do freelancing and consulting, so if you're in the market for an experienced programmer / designer /
                 system administrator, look no further!  Shoot me an email at
-                <a href="mailto:robert@forustheliving.com">robert@forustheliving.com</a>.  You can find my professional
-                resume at the top right of the window if you'd like a more official background.
+                <a href="mailto:robert@forustheliving.com">robert@forustheliving.com</a>.  You can also find my professional
+                resume at the top right of the window if you'd like a more official look into my background.
             </p>
         </section>
         <section id="projects">
