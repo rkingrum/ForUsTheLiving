@@ -59,6 +59,11 @@
                    target="_blank">
                     <span>Bonusly</span>
                 </a>
+                <a href="http://www.mikebelzer.com"
+                   style="background-image: url('static/images/projects/mikebelzer2.png');"
+                   target="_blank">
+                    <span>MikeBelzer.com</span>
+                </a>
                 <a href="https://www.purplewall.com"
                    style="background-image: url('static/images/projects/purplewall.png');"
                    target="_blank">
@@ -78,11 +83,6 @@
                    style="background-image: url('static/images/projects/csu.png');"
                    target="_blank">
                     <span>Colorado State University</span>
-                </a>
-                <a href="http://www.mikebelzer.com"
-                   style="background-image: url('static/images/projects/mikebelzer.png');"
-                   target="_blank">
-                    <span>MikeBelzer.com</span>
                 </a>
             </div>
         </section>
