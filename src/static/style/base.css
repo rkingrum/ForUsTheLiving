@@ -65,7 +65,8 @@ a {
 
 #about {
   margin: 1em 0;
-  padding: 1em 0; }
+  padding: 1em 0;
+  line-height: 1.35em; }
   #about > p {
     text-align: justify; }
 
