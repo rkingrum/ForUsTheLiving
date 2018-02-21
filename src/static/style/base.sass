@@ -10,7 +10,8 @@ $semi-transparent-black: rgba(0, 0, 0, .65)
   color: $gray
 
 body
-  margin: 5em 20em
+  max-width: 960px
+  margin: 5em auto
   background-color: $off-white
 
 a
@@ -87,9 +88,12 @@ a
   > p
     text-align: justify
 
+hr
+  border: 1px solid $light-gray
+
 #projects
   margin: 1em 0
-  padding: 1em 0
+  padding: .5em 0 1em
 
   > .project-list
     display: flex
@@ -133,50 +137,14 @@ a
 #footer
   padding: .1em 0
   background-color: $light-gray
+  border-radius: 5px
   text-align: center
 
-@media screen and (max-width: 1575px)
+@media (max-width: 960px)
   body
-    margin: 5em 15em
+    max-width: 100%
+    margin: 5em 2em
 
-@media screen and (max-width: 1415px)
-  body
-    margin: 5em 10em
-
-@media screen and (max-width: 1255px)
-  body
-    margin: 5em
-
-@media screen and (max-width: 1095px)
-  body
-    margin: 5em 10em
-
-  #header
-    > .resume
-      > .text
-        top: .5em
-        width: 12em
-
-      > .arrow
-        top: 2em
-        right: 5.5em
-        width: 7em
-
-@media screen and (max-width: 935px)
-  body
-    margin: 3em
-
-@media screen and (max-width: 710px)
-  #header
-    > .resume
-      top: -2.5em
-      right: -2.5em
-
-  #projects
-    > .project-list
-      justify-content: space-around
-
-@media screen and (max-width: 420px)
-  #header
-    > .resume
-      display: none
+@media (max-width: 820px)
+  .resume
+    display: none

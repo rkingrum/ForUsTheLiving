@@ -51,6 +51,7 @@
                 resume at the top right of the window if you'd like a more official look into my background.
             </p>
         </section>
+        <hr />
         <section id="projects">
             <h2>Projects</h2>
             <div class="project-list">
